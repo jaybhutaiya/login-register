@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Tiger",
+      "content": "What is special about tiger?As the largest member of the cat family, Tigers are strong, powerful and one of nature's most feared predators. Their beautiful orange and black striped coats provide camouflage when hunting prey at night, when they can reach speeds of 65 km/hr (~40 mph).",
+      "user_id": 1
+    },
+    {
+      "title":"Lion",
+      "content":"The lion (Panthera leo) is a large cat of the genus Panthera, native to Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a hairy tuft at the end of its tail.",
+      "user_id":2
+    },
+    {
+      "title":"Dog",
+      "content":"Doggy and Pooch redirect here. For other uses, see Dog (disambiguation), Doggy (disambiguation), and Pooch (disambiguation).",
+      "user_id":3
+    }
+  ]
